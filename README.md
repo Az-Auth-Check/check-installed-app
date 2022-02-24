@@ -80,4 +80,4 @@ Links used throughout this README:
 [_Available scopes_ in GitHub Docs]: https://docs.github.com/en/developers/apps/building-oauth-apps/scopes-for-oauth-apps#available-scopes
 [_Encrypted secrets_ in Github Docs]: https://docs.github.com/en/actions/reference/encrypted-secrets
 [about billing for github actions]: https://docs.github.com/en/github/setting-up-and-managing-billing-and-payments-on-github/about-billing-for-github-actions
-[running a workflow on github]: https://docs.github.com/en/actions/managing-workflow-runs/manually-running-a-workflow#running-a-workflow-on-github
+[running a workflow on github]: https://docs.github.com/en/actions/managing-workflow-runs/manually-running-a-workflow#running-a-workflow-on-github-ssow
